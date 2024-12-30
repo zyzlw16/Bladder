@@ -1,2 +1,2 @@
-# Bladder
-Bladder survival predicton
+# Bladder cancer
+Bladder cancer survival predicton
